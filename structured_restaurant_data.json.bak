@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Mar de Cortez",
+        "location": "Santa Monica",
+        "cuisine": "Baja-style seafood",
+        "rating": 4.2,
+        "description": "A casual taqueria offering seafood dishes like snapper tacos and octopus ceviche.",
+        "id": 1
+    },
+    {
+        "name": "Mar de Cortez",
+        "location": "Santa Monica",
+        "cuisine": "Baja-style seafood",
+        "rating": 4.2,
+        "description": "A casual taqueria offering seafood dishes like snapper tacos and octopus ceviche.",
+        "id": 1
+    },
+    {
+        "name": "Mar de Cortez",
+        "location": "Santa Monica",
+        "cuisine": "Baja-style seafood",
+        "rating": 4.2,
+        "description": "A casual taqueria offering seafood dishes like snapper tacos and octopus ceviche.",
+        "id": 1
+    },
+    {
+        "name": "Mar de Cortez",
+        "location": "Santa Monica",
+        "cuisine": "Baja-style seafood",
+        "rating": 4.2,
+        "description": "A casual taqueria offering seafood dishes like snapper tacos and octopus ceviche.",
+        "id": 1
+    }
+]
